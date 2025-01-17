@@ -1,2 +1,1 @@
-# Leo-s-first-project
-This is my first project on GitHub.
+# Hello, this is a test repo!
